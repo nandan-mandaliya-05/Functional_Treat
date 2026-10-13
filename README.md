@@ -913,13 +913,13 @@ git clone YOUR_GITHUB_REPOSITORY_URL
 ### 2. Navigate to the Project Folder
 
 ```bash
-cd "PR-4 - Data Analyzer and Transformer"
+cd "PR-4 - Functional Treat"
 ```
 
 ### 3. Run the Python Program
 
 ```bash
-python data_analyzer.py
+python Data_analyzer_and_transformer.py
 ```
 
 If Python is installed and configured correctly, the main menu will appear in the terminal.
