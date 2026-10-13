@@ -891,18 +891,12 @@ Practised accepting flexible positional and keyword arguments.
 ```text
 PR-4 - Data Analyzer and Transformer/
 │
-├── data_analyzer.py
-│
-├── README.md
-│
-└── requirements.txt
+└── data_analyzer.py
+
+README.md
 ```
 
-**Note:** `data_analyzer.py` is a suggested filename. Replace it with your actual Python filename if it differs.
-
-The current program uses Python's built-in features, so no external packages are required.
-
-An optional `requirements.txt` file can remain empty or contain a comment indicating that no external dependencies are needed.
+**Note:** This project uses Python's built-in functions and requires no external libraries.
 
 ---
 
